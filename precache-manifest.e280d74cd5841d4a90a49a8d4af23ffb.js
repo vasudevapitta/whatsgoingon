@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b9a7ae341b55728fb9ba03c27c39061",
+    "revision": "f6ed1d8a6c62f6221f6c9493de043d48",
     "url": "/whatsgoingon/index.html"
   },
   {
-    "revision": "38e70373ed3550aee448",
-    "url": "/whatsgoingon/static/css/main.462f22e5.chunk.css"
+    "revision": "55ab064a2c3edf25ad7a",
+    "url": "/whatsgoingon/static/css/main.b65a9ece.chunk.css"
   },
   {
     "revision": "4561fc0822175c485956",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whatsgoingon/static/js/2.a38b823d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38e70373ed3550aee448",
+    "revision": "55ab064a2c3edf25ad7a",
     "url": "/whatsgoingon/static/js/main.8245b286.chunk.js"
   },
   {
@@ -24,12 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whatsgoingon/static/js/runtime-main.d8f2053f.js"
   },
   {
-    "revision": "7212787ac2cb006948236e4600392180",
-    "url": "/whatsgoingon/static/media/EBGaramond-Regular.7212787a.ttf"
-  },
-  {
-    "revision": "e1996192b98a516646ff9a8c0c0ca90c",
-    "url": "/whatsgoingon/static/media/Oswald-Regular.e1996192.ttf"
+    "revision": "11eabca2251325cfc5589c9c6fb57b46",
+    "url": "/whatsgoingon/static/media/Roboto-Regular.11eabca2.ttf"
   },
   {
     "revision": "62d8b6ef8e6c796a5ddad822dff96874",
