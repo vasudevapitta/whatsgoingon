@@ -115,4 +115,12 @@ small a {
       padding: 0 5px 0 5px;
  }
 }
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+  select,
+  textarea,
+  input {
+    font-size: 16px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
